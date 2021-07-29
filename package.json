@@ -1,0 +1,19 @@
+{
+  "name": "my-rest-api-package",
+  "version": "1.0.0",
+  "description": "A test package for creating a rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyatthoffman4392/node-rest-api.git"
+  },
+  "author": "Wyatt Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyatthoffman4392/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/wyatthoffman4392/node-rest-api#readme"
+}
